@@ -38,6 +38,24 @@ export default function TabLayout() {
           ),
         }}
       />
+       <Tabs.Screen
+        name="contact"
+        options={{
+          title: 'contact',
+          tabBarIcon: ({ color, focused }) => (
+            <Ionicons name={focused ? 'information-circle' : 'information-circle'} color={color} size={24}/>
+          ),
+        }}
+      />
+       <Tabs.Screen
+        name="card"
+        options={{
+          title: 'card',
+          tabBarIcon: ({ color, focused }) => (
+            <Ionicons name={focused ? 'information-circle' : 'information-circle'} color={color} size={24}/>
+          ),
+        }}
+      />
     </Tabs>
   );
 }
