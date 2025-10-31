@@ -43,7 +43,7 @@ export default function TabLayout() {
         options={{
           title: 'contact',
           tabBarIcon: ({ color, focused }) => (
-            <Ionicons name={focused ? 'information-circle' : 'information-circle'} color={color} size={24}/>
+            <Ionicons name={focused ? 'mail' : 'mail'} color={color} size={24}/>
           ),
         }}
       />
