@@ -52,7 +52,7 @@ export default function TabLayout() {
         options={{
           title: 'card',
           tabBarIcon: ({ color, focused }) => (
-            <Ionicons name={focused ? 'information-circle' : 'information-circle'} color={color} size={24}/>
+            <Ionicons name={focused ? 'cart' : 'cart'} color={color} size={24}/>
           ),
         }}
       />
