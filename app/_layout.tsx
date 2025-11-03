@@ -56,6 +56,15 @@ export default function TabLayout() {
           ),
         }}
       />
+      <Tabs.Screen
+        name="AppleAuthentication"
+        options={{
+          title: 'AppleAuthentication',
+          tabBarIcon: ({ color, focused }) => (
+            <Ionicons name={focused ? 'cloud' : 'cloud'} color={color} size={24}/>
+          ),
+        }}
+      />
     </Tabs>
   );
 }
