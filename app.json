@@ -9,6 +9,7 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
+      "usesAppleSignIn": true,
       "supportsTablet": true,
       "bundleIdentifier": "com.lstan.demomendes"
     },
@@ -28,6 +29,7 @@
     },
     "plugins": [
       "expo-router",
+       "expo-apple-authentication",
       [
         "expo-splash-screen",
         {
