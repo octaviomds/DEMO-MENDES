@@ -7,7 +7,7 @@ DEMO APPLICATION:
 
  npx expo start
 
-APPLICATION COMPLILER :
+APPLICATION COMPILER :
 
 
 <img width="582" height="270" alt="Capture d’écran 2025-11-04 à 05 14 31" src="https://github.com/user-attachments/assets/84f2580f-415f-4d23-9789-b283eff37850" />
