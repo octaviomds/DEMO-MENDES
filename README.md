@@ -10,6 +10,7 @@ DEMO APPLICATION:
 APPLICATION COMPLILER :
 
 
+<img width="582" height="270" alt="Capture d’écran 2025-11-04 à 05 14 31" src="https://github.com/user-attachments/assets/84f2580f-415f-4d23-9789-b283eff37850" />
 
 
 
@@ -18,7 +19,7 @@ APPLICATION COMPLILER :
  
 
 
-<img width="582" height="245" alt="Capture d’écran 2025-11-04 à 05 12 17" src="https://github.com/user-attachments/assets/ecb3b882-45d9-41e6-8771-2ce2d81cb050" />
+
 
 
 APPLICATION DEPLOYER :
