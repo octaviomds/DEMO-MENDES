@@ -6,3 +6,16 @@ DEMO APPLICATION:
  npx expo install expo-apple-authentication
 
  npx expo start
+
+
+
+
+
+
+
+
+
+ 
+
+
+
