@@ -31,3 +31,10 @@ APPLICATION DEPLOYER :
 maquette de l'application:
  
 <img width="899" height="596" alt="Capture d’écran 2025-11-06 à 22 55 35" src="https://github.com/user-attachments/assets/f7a24ed1-7f78-43ae-8be2-5c7d7600ca29" />
+
+
+
+
+APPLICATION DEPLOYER:
+
+<img width="1008" height="854" alt="Capture d’écran 2025-11-06 à 23 16 57" src="https://github.com/user-attachments/assets/58612c9b-2b96-4da8-a026-8806272cb5b8" />
