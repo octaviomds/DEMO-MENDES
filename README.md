@@ -25,4 +25,9 @@ APPLICATION COMPILER :
 APPLICATION DEPLOYER :
 
 <img width="582" height="82" alt="Capture d’écran 2025-11-04 à 05 12 54" src="https://github.com/user-attachments/assets/f05f69ed-0200-44f2-96cf-6acfa263a90e" />
+
+
+
+maquette de l'application:
  
+<img width="899" height="596" alt="Capture d’écran 2025-11-06 à 22 55 35" src="https://github.com/user-attachments/assets/f7a24ed1-7f78-43ae-8be2-5c7d7600ca29" />
